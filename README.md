@@ -10,5 +10,4 @@
 ## Vias de contacto
 
 ![Website](https://img.shields.io/badge/YuliPaez.com-up-green?style=for-the-badge)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/YuliPaez/YuliPaez)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/YuliPaez/YuliPaez?style=for-the-badge)
