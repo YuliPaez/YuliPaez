@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de software en Microsoft**
-:pencil: **Generador de contenido**
-:eyeglasses: **Geek empedernido**
-:oncoming_automobile: **Fan de los autos, carreras y simuladores**
-:family: **!El papá más feliz del mundo!**
+:computer: **Ingeniera de sistemas**  
+:pencil: **Generador de contenido**  
+:eyeglasses: **Geek empedernido**  
+:soccer: **Fan del fútbol**  
+:family: **¡La mamá más feliz del mundo!**
+
 
 ## Vias de contacto
 
